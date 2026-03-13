@@ -44,6 +44,8 @@ An end-to-end Excel dashboard analysing customer purchasing behaviour across dem
 
 ---
 
+![exce dashboard](Overview.png)
+
 ## 🛠️ Skills Demonstrated
 
 - **PivotTables & PivotCharts** — summarising raw CSV data into interactive panels
